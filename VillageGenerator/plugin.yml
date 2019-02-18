@@ -1,0 +1,12 @@
+name: VillageGenerator
+main: game.check.Main
+version: 3.0
+author: 盧昭華
+commands:
+   village:
+      description: generate a village
+      usage: /<command> [size] [type] or /<command> [x] [z] [size] [radian] [type]
+permissions:
+   vg:
+     description: use this plugin
+     default: op
